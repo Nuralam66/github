@@ -1,0 +1,8 @@
+.fotter-img{
+    background-image: url(https://www.houstoncenterforinfectiousdiseases.com/image_press/Footer_BlueWave.png);
+}
+.fotter{
+  display: flex;
+  justify-content:space-evenly;
+  margin-top: 25px;
+}

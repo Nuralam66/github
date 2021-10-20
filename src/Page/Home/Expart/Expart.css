@@ -1,0 +1,12 @@
+.expart{
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+.expart img{
+    height: 300px;
+
+    
+}
+.expart:hover{
+    background-color: rgb(14, 196, 202);
+}

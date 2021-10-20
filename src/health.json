@@ -1,0 +1,37 @@
+ [
+  {
+    "id": 101,
+    "cetagory": "Heart searjery",
+    "img": "https://media.gettyimages.com/photos/mitral-valve-repair-picture-id565938177?s=612x612"
+  },
+  {
+    "id": 102,
+    "cetagory": "Brain sergory",
+    "img": "https://ars.els-cdn.com/content/image/1-s2.0-S0733861907000783-gr1.jpg"
+  },
+  {
+    "id": 103,
+    "cetagory": "Brown",
+    "img": "https://ars.els-cdn.com/content/image/3-s2.0-B9780323476614000137-f013-001-9780323476614.jpg"
+  },
+  {
+    "id": 104,
+    "cetagory": "Skin Disease",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy6QtKQMyUKEkv4Do3Ne5Bw6vdTQwhhkWfhg&usqp=CAU"
+  },
+  {
+    "id": 105,
+    "cetagory": "Eye sergory",
+    "img": "https://www.ieiworld.com/_upload/news/images/Eye-Surgery-Machine_Application-s.jpg"
+  },
+  {
+    "id": 106,
+    "cetagory": "canser",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuXUwxm2XJaV718dLI5mDFlBerAZQdzicFcw&usqp=CAU"
+  },
+  {
+    "id": 107,
+    "cetagory": "Bone",
+    "img": "https://thumbs.dreamstime.com/b/orthopedic-treatment-bone-surgery-patients-steel-bone-orthopedic-treatment-bone-surgery-patients-steel-bone-122035500.jpg"
+  }
+]
